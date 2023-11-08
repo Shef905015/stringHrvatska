@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\stringZadatakzaVjezbu\stringZadatakzaVjezbu\bin\Debug\stringZadatakzaVjezbu.exe.config
+C:\Users\ucenik\source\repos\stringZadatakzaVjezbu\stringZadatakzaVjezbu\bin\Debug\stringZadatakzaVjezbu.exe
+C:\Users\ucenik\source\repos\stringZadatakzaVjezbu\stringZadatakzaVjezbu\bin\Debug\stringZadatakzaVjezbu.pdb
+C:\Users\ucenik\source\repos\stringZadatakzaVjezbu\stringZadatakzaVjezbu\obj\Debug\stringZadatakzaVjezbu.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\stringZadatakzaVjezbu\stringZadatakzaVjezbu\obj\Debug\stringZadatakzaVjezbu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\stringZadatakzaVjezbu\stringZadatakzaVjezbu\obj\Debug\stringZadatakzaVjezbu.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\stringZadatakzaVjezbu\stringZadatakzaVjezbu\obj\Debug\stringZadatakzaVjezbu.exe
+C:\Users\ucenik\source\repos\stringZadatakzaVjezbu\stringZadatakzaVjezbu\obj\Debug\stringZadatakzaVjezbu.pdb
